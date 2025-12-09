@@ -115,6 +115,12 @@ Here are some highlighted QA projects included in this portfolio:
 
 ### 🔸 **Mobile App Manual Testing**
 Manual test cases, test plan, bug reports and functional analysis of a sample mobile app.
+<video width="600" controls>
+  <source src="assets/videos/demo.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+
 
 ### 🔸 **API Testing Collection**
 Postman collections with assertions, environment variables and documentation.
