@@ -16,11 +16,24 @@ Here you’ll find a collection of projects, test cases, reports, and experiment
 
 ## 🚀 About Me
 
-I'm a **QA Engineer** with a strong foundation in mobile development (Flutter/Dart, SwiftUI, Kotlin & Java), which allows me to better understand product architecture and identify issues with precision.
+Quality Assurance Engineer with a strong background in mobile development (Kotlin, Java, Swift/SwiftUI, Flutter/Dart), which provides a deep understanding of product architecture and helps identify issues with greater accuracy and context.
 
-I specialize in **manual testing**, mobile/web validation, API testing, bug reporting, test documentation, and exploratory testing. I’m currently expanding my skills toward **test automation** and **AI-assisted quality engineering**.
+I specialize in:
 
-I believe in learning by doing — theory is important, but hands-on practice is where knowledge truly sticks.
+🧪 Manual Testing for mobile, web, and backend services
+
+🔍 Exploratory Testing to uncover edge cases and unexpected behaviors
+
+🔗 API Testing to ensure consistent and reliable integrations
+
+🐞 Bug Reporting & Clear Documentation
+
+📝 Test Case Design, Execution, and Validation
+
+Currently enhancing my skill set through a QA Engineering bootcamp, expanding into test automation and AI-assisted quality engineering to build smarter and more efficient testing workflows.
+
+Passionate about AI, automation, continuous improvement, and staying curious.
+Outside of work, I enjoy gaming, testing new gadgets, and exploring smart home technology.
 
 ---
 
@@ -78,13 +91,7 @@ UI/UX testing, bug documentation, evidence, and severity/priority classification
 ---
 
 ## 📄 Professional Resume
-You can download my updated resume here:
-
-<p align="center">
-  <a href="assets/docs/CV - Jean Carlos Quejada Toro.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20mi%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF Badge"/>
-  </a>
-</p>
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/docs/CV - Jean Carlos Quejada Toro.pdf)
 
 ---
 
