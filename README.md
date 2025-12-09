@@ -117,20 +117,20 @@ My goal was to reduce repetitive manual testing efforts and ensure that forms we
 The problem I aimed to solve involved frequent inconsistencies in dynamic fields, incorrect validations, and errors that only appeared when combining multiple input types.
 As a result, I learned how to build robust automation scripts using Selenium, manage configurable environments with dotenv, and generate dynamic test data with Faker—successfully automating the form creation process and establishing the foundation for a future automated regression suite.
 
-<video width="200" height="200" controls>
+<video width="500" height="200" controls>
   <source src="assets/videos/demo.mp4" type="video/mp4">
   Tu navegador no soporta video HTML5.
 </video>
 
 
-### 🧾 Test Results
+**Test Results**
 <p align="center">
-  <img src="assets/img/test-results-sioma.png" width="700" alt="Test Results">
+  <img src="assets/img/test-results-sioma.png" width="500" alt="Test Results">
 </p>
 
 
 
-### Skills & Tools Used
+**Skills & Tools Used**
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
@@ -139,6 +139,40 @@ As a result, I learned how to build robust automation scripts using Selenium, ma
 ![Faker](https://img.shields.io/badge/Faker-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Colorama](https://img.shields.io/badge/Colorama-FFD700?style=for-the-badge&logo=python&logoColor=black)
 
+
+### 🚕 Urban.Routes – Web Application for Taxi Booking
+I performed regression testing for **Urban.Routes**, an app that calculates routes, duration, and prices for different transportation methods. I validated the business logic using techniques such as **equivalence classes** and **boundary values**, designing detailed test cases and a **flowchart** for the car-sharing feature.
+
+I created checklists to validate the design of the booking form, pop-up windows, and key functions such as “Add card,” “Payment method,” and the "Book" button. Finally, I executed functional tests in two environments (Chrome and Firefox with specific resolutions) and documented the bugs found in **JIRA**.
+
+**Key Results:**
+- ✔️ Designed UI and critical-flow checklists.  
+- 🧪 Prepared and executed **positive and negative test cases**.  
+- 🧭 Validated key functionalities across different resolutions and browsers.  
+- 🐞 Documented functional and UI bugs in **JIRA**.
+
+**Skills & Tools Used**
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
+![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Documentation-FFD700?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+**Link:** [Documentation](https://drive.google.com/drive/folders/1ZSSoDNSYaJqphbHrNuFywWs5boTavgni?usp=sharing)
+
+**Project screenshots:**  
+
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_routes.PNG" target="_blank">
+    <img src="assets/img/urban_routes.PNG" alt="APK in Android Studio" width="500"/>
+  </a>  
+</div>
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_routes_informe.PNG" target="_blank">
+    <img src="assets/img/urban_routes_informe.PNG" alt="APK in Android Studio" width="500"/>
+  </a>  
+</div>
+
+---
 
 
 ---
