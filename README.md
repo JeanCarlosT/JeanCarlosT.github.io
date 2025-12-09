@@ -1,7 +1,25 @@
-# 👋 Hi, I'm Jean Carlos — QA Engineer  
+# 👋 Hi, I'm Jean Carlos!
 
-Welcome to my QA Engineering portfolio.  
+Welcome to my GitHub profile!   
+
 Here you’ll find a collection of projects, test cases, reports, and experiments that reflect my passion for software quality, mobile development, and continuous learning.
+
+<p align="center">
+  <strong>QA ENGINEER · QA MANUAL TESTER · QA AUTOMATIZADOR JUNIOR</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:jeancarlosquejadatoro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-jeancarlosquejadatoro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/jean-carlos-quejada-toro-qa-engineer">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+
 
 ---
 
@@ -104,10 +122,6 @@ If you want to discuss QA, projects, collaboration, or opportunities, feel free 
 - **GitHub:** https://github.com/yourusername  
 
 ---
-
-### ⭐ Thanks for stopping by!
-Feel free to explore the files and folders — each one documents my journey toward becoming a stronger QA Engineer with a solid technical foundation and a passion for quality.
-
 
 
 ---
