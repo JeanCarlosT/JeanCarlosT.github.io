@@ -10,7 +10,7 @@ Here you’ll find a collection of projects, test cases, reports, and experiment
 
 <p align="center">
   <a href="mailto:jeancarlosquejadatoro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-jeancarlosquejadatoro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <a href="https://www.linkedin.com/in/jean-carlos-quejada-toro-qa-engineer">
