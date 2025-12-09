@@ -91,7 +91,7 @@ UI/UX testing, bug documentation, evidence, and severity/priority classification
 ---
 
 ## 📄 Professional Resume
-[![Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/docs/CV - Jean Carlos Quejada Toro.pdf)
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/docs/CV-Jean-Carlos-Quejada-Toro.pdf.pdf)
 
 ---
 
