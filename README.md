@@ -28,7 +28,7 @@ I believe in learning by doing — theory is important, but hands-on practice is
 
 ### 🧪 QA & Testing
 
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
@@ -37,7 +37,7 @@ I believe in learning by doing — theory is important, but hands-on practice is
 
 ### 📋 Gestión & Documentación
 
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA"/>
   <img src="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevTools"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
@@ -46,7 +46,7 @@ I believe in learning by doing — theory is important, but hands-on practice is
 
 ### 🗃️ Bases de Datos & Análisis
 
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
@@ -55,7 +55,7 @@ I believe in learning by doing — theory is important, but hands-on practice is
 
 ### 🤖 Automatización & AI
 
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/AI%20Prompts-7A42F4?style=for-the-badge&logo=openai&logoColor=white" alt="AI Prompts"/>
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
 </p>
