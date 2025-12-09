@@ -55,6 +55,24 @@ Outside of work, I enjoy gaming, testing new gadgets, and exploring smart home t
 
 ---
 
+## 🌱 What I’m Learning
+
+- Advanced **testing methodologies** (manual & automated).  
+- **Mobile QA** practices for Android and iOS.  
+- Performance testing, exploratory testing, and bug tracking.  
+- Integrating **AI** into development and testing workflows.
+
+---
+
+## 📈 My Goals
+
+- Bridge the gap between **development** and **quality assurance**.  
+- Build and test mobile apps that are intuitive, reliable, and scalable.  
+- Contribute to open-source projects and learn from the global dev community.  
+- Keep improving as a **QA Engineer** and mobile developer.
+  
+---
+
 ## 🛠️ Tech Stack
 
 ### 🧪 QA & Testing
@@ -120,51 +138,6 @@ Feel free to reach out if you’d like to collaborate, exchange ideas, or just c
 - 💌 [Email Me](mailto:jeanquejadatoro@gmail.com)  
 - 🌐 [Instagram](https://www.instagram.com/jeancarlos.quejadatoro?igsh=aWJwaWZucDY4d2ti)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jean-carlos-quejada-toro-3b16831b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
----
-# 👋 Hi there!
-
-Welcome to my GitHub profile!  
-I'm **Jean Carlos Quejada Toro**, a **Systems Engineer** passionate about technology, mobile innovation, and software quality.  
-Throughout my career, I’ve worked across different platforms — creating, testing, and refining apps that blend creativity with performance.
-
----
-## 📋 Índice
-
-1. [🚀 About Me](#-about-me)  
-2. [🛠️ Tech Stack](#️-tech-stack)  
-3. [📂 Featured Projects](#-featured-projects)  
-4. [📄 Professional Resume](#-professional-resume)  
-5. [📬 Let’s Talk](#-lets-talk)
----
-
-## 🚀 About Me
-
-- 💼 **Current Role:** QA Engineer — ensuring reliability, usability, and flawless user experiences.  
-- 💻 **Previous Focus:** Mobile Development  
-  - 📱 **Kotlin & Jetpack Compose | Java & XML** – Android apps with a focus on performance and design.  
-  - 🌐 **Flutter & Dart** – Building efficient and beautiful cross-platform apps.  
-  - 🍏 **Swift & SwiftUI** – Developing elegant and intuitive iOS apps.  
-- 🧠 Passionate about **AI**, **Automation**, and **Continuous Improvement**.  
-- 🎮 When I’m not working, you’ll find me gaming, exploring smart home tech, or testing new gadgets.
-
----
-
-## 🌱 What I’m Learning
-
-- Advanced **testing methodologies** (manual & automated).  
-- **Mobile QA** practices for Android and iOS.  
-- Performance testing, exploratory testing, and bug tracking.  
-- Integrating **AI** into development and testing workflows.
-
----
-
-## 📈 My Goals
-
-- Bridge the gap between **development** and **quality assurance**.  
-- Build and test mobile apps that are intuitive, reliable, and scalable.  
-- Contribute to open-source projects and learn from the global dev community.  
-- Keep improving as a **QA Engineer** and mobile developer.
 
 ---
 
