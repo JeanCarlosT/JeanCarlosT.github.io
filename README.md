@@ -123,14 +123,14 @@ As a result, I learned how to build robust automation scripts using Selenium, ma
 </video>
 
 
-## 🧾 Test Results
+### 🧾 Test Results
 <p align="center">
   <img src="assets/img/test-results-sioma.png" width="700" alt="Test Results">
 </p>
 
 
 
-## Skills & Tools Used
+### Skills & Tools Used
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
