@@ -115,14 +115,11 @@ UI/UX testing, bug documentation, evidence, and severity/priority classification
 
 ## 📬 Let’s Talk
 
-If you want to discuss QA, projects, collaboration, or opportunities, feel free to reach out:
+Feel free to reach out if you’d like to collaborate, exchange ideas, or just chat about tech, QA, and mobile development!  
 
-- **Email:** your-email@example.com  
-- **LinkedIn:** https://linkedin.com/in/yourprofile  
-- **GitHub:** https://github.com/yourusername  
-
----
-
+- 💌 [Email Me](mailto:jeanquejadatoro@gmail.com)  
+- 🌐 [Instagram](https://www.instagram.com/jeancarlos.quejadatoro?igsh=aWJwaWZucDY4d2ti)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jean-carlos-quejada-toro-3b16831b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 # 👋 Hi there!
@@ -168,16 +165,6 @@ Throughout my career, I’ve worked across different platforms — creating, tes
 - Build and test mobile apps that are intuitive, reliable, and scalable.  
 - Contribute to open-source projects and learn from the global dev community.  
 - Keep improving as a **QA Engineer** and mobile developer.
-
----
-
-## 📫 Let’s Connect!
-
-Feel free to reach out if you’d like to collaborate, exchange ideas, or just chat about tech, QA, and mobile development!  
-
-- 💌 [Email Me](mailto:jeanquejadatoro@gmail.com)  
-- 🌐 [Instagram](https://www.instagram.com/jeancarlos.quejadatoro?igsh=aWJwaWZucDY4d2ti)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jean-carlos-quejada-toro-3b16831b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
