@@ -117,16 +117,17 @@ My goal was to reduce repetitive manual testing efforts and ensure that forms we
 The problem I aimed to solve involved frequent inconsistencies in dynamic fields, incorrect validations, and errors that only appeared when combining multiple input types.
 As a result, I learned how to build robust automation scripts using Selenium, manage configurable environments with dotenv, and generate dynamic test data with Faker—successfully automating the form creation process and establishing the foundation for a future automated regression suite.
 
-<video width="600" height="600" controls>
-  <source src="assets/videos/demo.mov" type="video/mov">
+<video width="700" height="350" controls>
+  <source src="assets/videos/demo.mp4" type="video/mp4">
   Tu navegador no soporta video HTML5.
 </video>
 
-## 🧾 Test Results
 
+## 🧾 Test Results
 <p align="center">
   <img src="assets/img/test-results-sioma.png" width="700" alt="Test Results">
 </p>
+
 
 
 ## Skills & Tools Used
@@ -139,15 +140,6 @@ As a result, I learned how to build robust automation scripts using Selenium, ma
 ![Colorama](https://img.shields.io/badge/Colorama-FFD700?style=for-the-badge&logo=python&logoColor=black)
 
 
-
-
-### 🔸 **API Testing Collection**
-Postman collections with assertions, environment variables and documentation.
-
-### 🔸 **Web Testing + Bug Reports**
-UI/UX testing, bug documentation, evidence, and severity/priority classification.
-
-> You can explore all projects inside this repository’s folders.
 
 ---
 
