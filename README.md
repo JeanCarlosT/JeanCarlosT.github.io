@@ -18,9 +18,6 @@ Here you’ll find a collection of projects, test cases, reports, and experiment
   </a>
 </p>
 
-
-
-
 ---
 
 ## 📑 Table of Contents
@@ -113,12 +110,33 @@ Outside of work, I enjoy gaming, testing new gadgets, and exploring smart home t
 
 Here are some highlighted QA projects included in this portfolio:
 
-### 🔸 **Mobile App Manual Testing**
-Manual test cases, test plan, bug reports and functional analysis of a sample mobile app.
-<video width="600" controls>
+### 🔸 **Automated Form Creation Testing – Sioma Web Platform**
+I designed an initial automation flow to validate the form creation process within the Sioma web platform, applying testing best practices and clean Python structuring.
+
+My goal was to reduce repetitive manual testing efforts and ensure that forms were generated correctly under different conditions.
+The problem I aimed to solve involved frequent inconsistencies in dynamic fields, incorrect validations, and errors that only appeared when combining multiple input types.
+As a result, I learned how to build robust automation scripts using Selenium, manage configurable environments with dotenv, and generate dynamic test data with Faker—successfully automating the form creation process and establishing the foundation for a future automated regression suite.
+
+<video width="600" height="600" controls>
   <source src="assets/videos/demo.mov" type="video/mov">
   Tu navegador no soporta video HTML5.
 </video>
+
+## 🧾 Test Results
+
+<p align="center">
+  <img src="assets/img/test-results-sioma.png" width="700" alt="Test Results">
+</p>
+
+
+🧰 Skills & Tools Used
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![python-dotenv](https://img.shields.io/badge/python--dotenv-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![WebDriver Manager](https://img.shields.io/badge/Webdriver%20Manager-000000?style=for-the-badge&logo=python&logoColor=white)
+![Faker](https://img.shields.io/badge/Faker-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Colorama](https://img.shields.io/badge/Colorama-FFD700?style=for-the-badge&logo=python&logoColor=black)
+
 
 
 
