@@ -1,9 +1,109 @@
+# 👋 Hi, I'm Jean Carlos — QA Engineer  
+
+Welcome to my QA Engineering portfolio.  
+Here you’ll find a collection of projects, test cases, reports, and experiments that reflect my passion for software quality, mobile development, and continuous learning.
+
+---
+
+## 📑 Table of Contents
+1. [🚀 About Me](#-about-me)  
+2. [🛠️ Tech Stack](#️-tech-stack)  
+3. [📂 Featured Projects](#-featured-projects)  
+4. [📄 Professional Resume](#-professional-resume)  
+5. [📬 Let’s Talk](#-lets-talk)
+
+---
+
+## 🚀 About Me
+
+I'm a **QA Engineer** with a strong foundation in mobile development (Flutter/Dart, SwiftUI, Kotlin & Java), which allows me to better understand product architecture and identify issues with precision.
+
+I specialize in **manual testing**, mobile/web validation, API testing, bug reporting, test documentation, and exploratory testing. I’m currently expanding my skills toward **test automation** and **AI-assisted quality engineering**.
+
+I believe in learning by doing — theory is important, but hands-on practice is where knowledge truly sticks.
+
+---
+
+## 🛠️ Tech Stack
+
+### **🧪 QA & Testing**
+- Manual Testing  
+- Test Case Design & Execution  
+- Bug Reporting & Documentation  
+- Exploratory Testing  
+- API Testing (Postman)  
+- Basic Automation (Selenium – first steps)
+
+### **📱 Mobile Development Background**
+- **Flutter & Dart**  
+- **Swift & SwiftUI**  
+- **Kotlin & Jetpack Compose**  
+- **Java & XML**
+
+### **⚙️ Other Technologies**
+- Git & GitHub  
+- Markdown  
+- Python (basics)  
+- Java (basics)  
+- C# (basics)
+
+---
+
+## 📂 Featured Projects
+
+Here are some highlighted QA projects included in this portfolio:
+
+### 🔸 **Mobile App Manual Testing**
+Manual test cases, test plan, bug reports and functional analysis of a sample mobile app.
+
+### 🔸 **API Testing Collection**
+Postman collections with assertions, environment variables and documentation.
+
+### 🔸 **Web Testing + Bug Reports**
+UI/UX testing, bug documentation, evidence, and severity/priority classification.
+
+> You can explore all projects inside this repository’s folders.
+
+---
+
+## 📄 Professional Resume
+You can download my updated resume here:
+
+👉 **[Download Resume (PDF)](#)**  
+*(Add real link once you upload it)*
+
+---
+
+## 📬 Let’s Talk
+
+If you want to discuss QA, projects, collaboration, or opportunities, feel free to reach out:
+
+- **Email:** your-email@example.com  
+- **LinkedIn:** https://linkedin.com/in/yourprofile  
+- **GitHub:** https://github.com/yourusername  
+
+---
+
+### ⭐ Thanks for stopping by!
+Feel free to explore the files and folders — each one documents my journey toward becoming a stronger QA Engineer with a solid technical foundation and a passion for quality.
+
+
+
+---
 # 👋 Hi there!
 
 Welcome to my GitHub profile!  
 I'm **Jean Carlos Quejada Toro**, a **Systems Engineer** passionate about technology, mobile innovation, and software quality.  
 Throughout my career, I’ve worked across different platforms — creating, testing, and refining apps that blend creativity with performance.
 
+---
+## 📋 Índice
+
+1. [🚀 About Me](#-about-me)  
+2. [🛠️ Tech Stack](#️-tech-stack)  
+3. [📂 Featured Projects](#-featured-projects)  
+4. [📄 Professional Resume](#-professional-resume)  
+5. [📬 Let’s Talk](#-lets-talk)
 ---
 
 ## 🚀 About Me
