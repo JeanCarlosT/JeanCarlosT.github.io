@@ -129,10 +129,11 @@ As a result, I learned how to build robust automation scripts using Selenium, ma
 </p>
 
 
-🧰 Skills & Tools Used
+## Skills & Tools Used
+
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![python-dotenv](https://img.shields.io/badge/python--dotenv-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![python-dotenv](https://img.shields.io/badge/python--dotenv-3670A0?style=for-the-badge&logo=python&logoColor=white) 
 ![WebDriver Manager](https://img.shields.io/badge/Webdriver%20Manager-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Faker](https://img.shields.io/badge/Faker-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Colorama](https://img.shields.io/badge/Colorama-FFD700?style=for-the-badge&logo=python&logoColor=black)
